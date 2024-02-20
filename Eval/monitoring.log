@@ -1,0 +1,51 @@
+2024-02-20 15:05:08,031 - INFO - CPU Percent:	0.0%
+2024-02-20 15:05:08,031 - INFO - Memory Info:	svmem(total=17179869184, available=6650970112, percent=61.3, used=8589623296, free=187662336, active=6464847872, inactive=6444646400, wired=2124775424)
+2024-02-20 15:05:08,031 - INFO - Network Info:	snetio(bytes_sent=569446400, bytes_recv=494709760, packets_sent=1236742, packets_recv=3985179, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:05:18,042 - INFO - CPU Percent:	3.3%
+2024-02-20 15:05:18,043 - INFO - Memory Info:	svmem(total=17179869184, available=6879707136, percent=60.0, used=8362770432, free=332201984, active=6515212288, inactive=6528532480, wired=1847558144)
+2024-02-20 15:05:18,043 - INFO - Network Info:	snetio(bytes_sent=569461760, bytes_recv=494720000, packets_sent=1236777, packets_recv=3985211, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:05:28,055 - INFO - CPU Percent:	8.7%
+2024-02-20 15:05:28,056 - INFO - Memory Info:	svmem(total=17179869184, available=6620725248, percent=61.5, used=8619425792, free=330530816, active=6305300480, inactive=6263554048, wired=2314125312)
+2024-02-20 15:05:28,056 - INFO - Network Info:	snetio(bytes_sent=569556992, bytes_recv=494760960, packets_sent=1236904, packets_recv=3985287, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:05:38,061 - INFO - CPU Percent:	6.6%
+2024-02-20 15:05:38,061 - INFO - Memory Info:	svmem(total=17179869184, available=6935576576, percent=59.6, used=8305098752, free=404439040, active=6539264000, inactive=6503366656, wired=1765834752)
+2024-02-20 15:05:38,061 - INFO - Network Info:	snetio(bytes_sent=569568256, bytes_recv=494774272, packets_sent=1236951, packets_recv=3985332, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:05:48,068 - INFO - CPU Percent:	4.8%
+2024-02-20 15:05:48,069 - INFO - Memory Info:	svmem(total=17179869184, available=6943096832, percent=59.6, used=8297267200, free=412516352, active=6540804096, inactive=6502481920, wired=1756463104)
+2024-02-20 15:05:48,069 - INFO - Network Info:	snetio(bytes_sent=569584640, bytes_recv=494816256, packets_sent=1237028, packets_recv=3985431, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:05:58,079 - INFO - CPU Percent:	12.7%
+2024-02-20 15:05:58,079 - INFO - Memory Info:	svmem(total=17179869184, available=6854524928, percent=60.1, used=8388280320, free=313131008, active=6551977984, inactive=6503366656, wired=1836302336)
+2024-02-20 15:05:58,079 - INFO - Network Info:	snetio(bytes_sent=569654272, bytes_recv=494870528, packets_sent=1237162, packets_recv=3985588, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:06:08,087 - INFO - CPU Percent:	9.3%
+2024-02-20 15:06:08,087 - INFO - Memory Info:	svmem(total=17179869184, available=6839664640, percent=60.2, used=8403943424, free=297828352, active=6556647424, inactive=6502268928, wired=1847296000)
+2024-02-20 15:06:08,087 - INFO - Network Info:	snetio(bytes_sent=569690112, bytes_recv=494920704, packets_sent=1237245, packets_recv=3985697, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:06:18,092 - INFO - CPU Percent:	10.0%
+2024-02-20 15:06:18,093 - INFO - Memory Info:	svmem(total=17179869184, available=6794133504, percent=60.5, used=8448983040, free=223281152, active=6587219968, inactive=6532595712, wired=1861763072)
+2024-02-20 15:06:18,093 - INFO - Network Info:	snetio(bytes_sent=569720832, bytes_recv=494946304, packets_sent=1237308, packets_recv=3985771, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:06:28,099 - INFO - CPU Percent:	11.4%
+2024-02-20 15:06:28,099 - INFO - Memory Info:	svmem(total=17179869184, available=6767771648, percent=60.6, used=8476540928, free=165429248, active=6617907200, inactive=6557532160, wired=1858633728)
+2024-02-20 15:06:28,099 - INFO - Network Info:	snetio(bytes_sent=569764864, bytes_recv=495001600, packets_sent=1237431, packets_recv=3985903, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:06:38,105 - INFO - CPU Percent:	9.1%
+2024-02-20 15:06:38,105 - INFO - Memory Info:	svmem(total=17179869184, available=6740017152, percent=60.8, used=8504557568, free=115343360, active=6632161280, inactive=6576373760, wired=1872396288)
+2024-02-20 15:06:38,105 - INFO - Network Info:	snetio(bytes_sent=569783296, bytes_recv=495037440, packets_sent=1237512, packets_recv=3985979, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:06:48,112 - INFO - CPU Percent:	7.5%
+2024-02-20 15:06:48,112 - INFO - Memory Info:	svmem(total=17179869184, available=6626918400, percent=61.4, used=8620212224, free=167690240, active=6566625280, inactive=6410780672, wired=2053586944)
+2024-02-20 15:06:48,112 - INFO - Network Info:	snetio(bytes_sent=569795584, bytes_recv=495066112, packets_sent=1237559, packets_recv=3986027, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:06:58,123 - INFO - CPU Percent:	8.7%
+2024-02-20 15:06:58,124 - INFO - Memory Info:	svmem(total=17179869184, available=6800752640, percent=60.4, used=8444493824, free=154943488, active=6664617984, inactive=6585843712, wired=1779875840)
+2024-02-20 15:06:58,124 - INFO - Network Info:	snetio(bytes_sent=569826304, bytes_recv=495122432, packets_sent=1237669, packets_recv=3986139, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:07:08,131 - INFO - CPU Percent:	9.2%
+2024-02-20 15:07:08,131 - INFO - Memory Info:	svmem(total=17179869184, available=6532022272, percent=62.0, used=8714682368, free=64487424, active=6559105024, inactive=6464061440, wired=2155577344)
+2024-02-20 15:07:08,131 - INFO - Network Info:	snetio(bytes_sent=569837568, bytes_recv=495144960, packets_sent=1237718, packets_recv=3986188, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:54:57,078 - INFO - CPU Percent:	0.0%
+2024-02-20 15:54:57,078 - INFO - Memory Info:	svmem(total=17179869184, available=6378258432, percent=62.9, used=8514912256, free=212860928, active=6186647552, inactive=6153781248, wired=2328264704)
+2024-02-20 15:54:57,078 - INFO - Network Info:	snetio(bytes_sent=580108288, bytes_recv=773641216, packets_sent=1302149, packets_recv=4186724, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:55:07,082 - INFO - CPU Percent:	5.1%
+2024-02-20 15:55:07,082 - INFO - Memory Info:	svmem(total=17179869184, available=6415155200, percent=62.7, used=8479129600, free=229539840, active=6203736064, inactive=6170705920, wired=2275393536)
+2024-02-20 15:55:07,082 - INFO - Network Info:	snetio(bytes_sent=580121600, bytes_recv=773651456, packets_sent=1302179, packets_recv=4186750, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:55:17,093 - INFO - CPU Percent:	8.1%
+2024-02-20 15:55:17,093 - INFO - Memory Info:	svmem(total=17179869184, available=6290964480, percent=63.4, used=8608219136, free=93896704, active=6238633984, inactive=6181224448, wired=2369585152)
+2024-02-20 15:55:17,093 - INFO - Network Info:	snetio(bytes_sent=580133888, bytes_recv=773653504, packets_sent=1302211, packets_recv=4186771, errin=0, errout=0, dropin=0, dropout=0)
+2024-02-20 15:55:27,104 - INFO - CPU Percent:	6.3%
+2024-02-20 15:55:27,104 - INFO - Memory Info:	svmem(total=17179869184, available=6415155200, percent=62.7, used=8483569664, free=184401920, active=6246219776, inactive=6214582272, wired=2237349888)
+2024-02-20 15:55:27,104 - INFO - Network Info:	snetio(bytes_sent=580141056, bytes_recv=773667840, packets_sent=1302236, packets_recv=4186836, errin=0, errout=0, dropin=0, dropout=0)
