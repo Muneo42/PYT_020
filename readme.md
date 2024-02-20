@@ -1,32 +1,32 @@
-## Every Exercice for PYT_020
+# Every Exercice for PYT_020
 
-# L'encodage Base 64 : Utilisé notamment pour encoder le URLs
+### L'encodage Base 64 : Utilisé notamment pour encoder le URLs
 
-# Egalement utilisé pour joindre des fichiers aux emails.
+### Egalement utilisé pour joindre des fichiers aux emails.
 
-# Encodage standard de l'information est le code ASCII (7 ou bits)
+### Encodage standard de l'information est le code ASCII (7 ou bits)
 
-# Le code Base 64 n'utilise que 64 caractères alors que l'ASCII utilise une table de 128 caractères (ASCII 7 Bits) ou 256 caractères (ASCII 8 bits)
+### Le code Base 64 n'utilise que 64 caractères alors que l'ASCII utilise une table de 128 caractères (ASCII 7 Bits) ou 256 caractères (ASCII 8 bits)
 
-# On part d'une chaine de caractères : 'ABCDE'
+### On part d'une chaine de caractères : 'ABCDE'
 
-# Etapes détaillées :
+### Etapes détaillées :
 
-## Chaque étape fera l'objet de la création d'une fonction (Documentée et commentée).
+# Chaque étape fera l'objet de la création d'une fonction (Documentée et commentée).
 
-# 1) Transformer la chaine de caractères en liste
+## 1) Transformer la chaine de caractères en liste
 ['A','B','C','D','E']
 
-# 2) Transformer chaque élément de la liste dans son code ASCII
+## 2) Transformer chaque élément de la liste dans son code ASCII
 [65,66,67,68,69]
 
-# 3) Transformer chaque élément de la liste dans sa représentation binaire
+## 3) Transformer chaque élément de la liste dans sa représentation binaire
 ['1000001','1000010','1000011','1000100','1000101']
 
-# 4) Cadrer tous les éléments de la liste à droite sur 8 positions (ajouter les zéros à gauche)
+## 4) Cadrer tous les éléments de la liste à droite sur 8 positions (ajouter les zéros à gauche)
 ['01000001','01000010','01000011','01000100','01000101']
 
-# 5) Créer une chaine de caractère à partir de la liste
+## 5) Créer une chaine de caractère à partir de la liste
 '0100000101000010010000110100010001000101'
 
 # 6) Découper la chaine en blocs de 6 caractères et en faire une nouvelle liste
