@@ -29,22 +29,22 @@
 ## 5) Créer une chaine de caractère à partir de la liste
 '0100000101000010010000110100010001000101'
 
-# 6) Découper la chaine en blocs de 6 caractères et en faire une nouvelle liste
+## 6) Découper la chaine en blocs de 6 caractères et en faire une nouvelle liste
 ['010000','010100','001001','000011','010001','000100','0101']
 
-# 7) Cadrer le dernier bloc sur 6 caractères (ajouter des zéros à droite)
+## 7) Cadrer le dernier bloc sur 6 caractères (ajouter des zéros à droite)
 ['010000','010100','001001','000011','010001','000100','010100']
 
-# 8) Transormer chaque élément en représentation décimale
+## 8) Transormer chaque élément en représentation décimale
 [16,20,9,3,17,4,20]
 
-# 9) Transformer chaque élément dans son caractère dans la table Base 64
+## 9) Transformer chaque élément dans son caractère dans la table Base 64
 ['Q','U','J','D','R','E','U']
 
-# 10 ) Transformer la liste en chaine de caractères
+## 10 ) Transformer la liste en chaine de caractères
 'QUJDREU'
 
-# 11) La chaine de caractères doit avoir un longeur multiple de 4. Ajouter éventuellemnt des signes '=' à droite pour obtenir une longeur multiple de 4
+## 11) La chaine de caractères doit avoir un longeur multiple de 4. Ajouter éventuellemnt des signes '=' à droite pour obtenir une longeur multiple de 4
 'QUJDREU='
 
 ## Exercice: Ecrire le script avec chaque étape dans une fonction.
